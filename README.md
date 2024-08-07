@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://b4n88.github.io/Virtualblog/](https://b4n88.github.io/Virtualblog/)
 
-- 💬 Ask me about **Everythink**
+- 💬 Ask me about **Everything**
 
 - 📫 How to reach me **Albani.baga@gmail.com**
 
