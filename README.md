@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Programming language like R & Py**
 
-- 📝 I regularly write articles on [https://b4n88.github.io/Virtualblog/](https://b4n88.github.io/Virtualblog/)
+- 📝 I regularly write articles on ..
 
 - 💬 Ask me about **whatever u want..**
 
