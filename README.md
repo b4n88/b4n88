@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Albani</h1>
 <h3 align="center">I am a Statistician, Data Analyst & Market Research enthusiast..</h3>
+
 ---
+
 - 🔭 I’m currently working on **PT Indomarco Prismatama**
 
 - 🌱 I’m currently learning **Stats for business and Market Research**
