@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles in [here](https://b4n88.github.io/Virtualblog/)
 
-- 💬 Ask me about **whatever u want..**
-
 - 📫 How to reach me **albani.idm88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
