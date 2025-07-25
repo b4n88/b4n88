@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Programming language like R & Py**
 
-- 📝 I regularly write articles in [here](https://b4n88.github.io/Blogpribadi/)
+- 📝 I regularly write articles in [here](https://medium.com/@albani88)
 
 - 📫 How to reach me **albani.idm88@gmail.com**
 
