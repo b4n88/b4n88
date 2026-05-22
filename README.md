@@ -23,6 +23,12 @@
 
 ### 📊 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b4n88&show_icons=true&locale=en&layout=compact&theme=radical" alt="b4n88" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b4n88&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Albani Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4n88&show_icons=true&locale=en&theme=radical" alt="b4n88" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b4n88&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html" alt="Top Languages" />
+</p>
+
+
